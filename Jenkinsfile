@@ -12,13 +12,5 @@ pipeline {
                 
             }
         }
-
-
-
-        stage ('Deployment Stage') {
-            steps {
-               echo "Deploying Project";
-            }
-        }
     }
 }

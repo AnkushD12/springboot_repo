@@ -12,6 +12,7 @@
 	<groupId>com.nagarro</groupId>
 	<artifactId>librarymanagement</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<package>war</package>
 	<name>librarymanagement</name>
     <description>Library Management project for Spring Boot</description>
 	<properties>
